@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages - of Vamsi Vegi
+# Poker game written in Kotlin/ TornadoFX 
 
 This page is in progress

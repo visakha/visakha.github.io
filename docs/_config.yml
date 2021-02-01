@@ -33,9 +33,10 @@ exclude:
     - spec
 include:
     - _pages
-google_site_verification: eOAFtDphTbbm4OPKva2d3Z0Z_2bBxWMGdkD0IRQ6VeA
+
+# google_site_verification: eOAFtDphTbbm4OPKva2d3Z0Z_2bBxWMGdkD0IRQ6VeA
 twitter:
-    username: ElectronJS
+    username: vamsi_vegi
 logo: /images/opengraph.png
 
 # github.com/untra/polyglot
