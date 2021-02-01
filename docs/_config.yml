@@ -1,9 +1,9 @@
-title: Electron
-email: electron@github.com
-description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS.'
-url: 'https://electron.atom.io'
-twitter_username: ElectronJS
-github_username: electron
+title: Visakha programming blog
+email: viz.ply@gmail.com
+description: 'blog for taking notes and sharing with the community'
+url: 'https://visakha.github.io/'
+twitter_username: vamsi_vegi
+github_username: visakha
 future: true
 excerpt_separator: '---'
 gems:
