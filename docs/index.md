@@ -1,3 +1,5 @@
 # Poker game written in Kotlin/ TornadoFX 
 
-This page is in progress
+see the git repo
+    - https://github.com/visakha/poker-deal-cards
+    
