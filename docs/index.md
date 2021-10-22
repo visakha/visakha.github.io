@@ -12,6 +12,6 @@ Won't it be nice to learn Kotlin language (the language for the Android developm
 while thinking about Poker. Then check out my git repo.
 Currently all it does is show a game board and will let you deal the cards. | 
 
-see the git repo
+see the git repo here
 
     - https://github.com/visakha/poker-deal-cards
